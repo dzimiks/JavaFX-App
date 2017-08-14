@@ -1,0 +1,4 @@
+Java 8;Gary Cornell;2010;CET;1500.00;10
+C++;Richard Bell;2012;Oxford;799.99;17
+Learn Python;Berry Snake;2015;MIT;899.99;1
+How to be a better programmer;Elon Musk;2017;MIT;2259.99;1
